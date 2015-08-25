@@ -15,7 +15,7 @@ var gulp = require('gulp'),
 // gulp.task('업무이름', 업무를 처리할 함수)
 
 var config = {
-	'jade' : {'pretty' :true}
+	'jade' : {'pretty' :true},
 	'sass' : {'outputStyle':'compact'}
 }
 
